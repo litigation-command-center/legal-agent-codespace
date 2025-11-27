@@ -1,0 +1,6 @@
+streamlit
+openai
+qdrant-client
+python-dotenv
+requests
+# add any other dependencies from the Unwind AI project (agno, etc.)
